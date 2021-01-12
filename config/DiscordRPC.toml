@@ -18,7 +18,7 @@
 	LogToChat = false
 	#Custom client id, see https://github.com/ErdbeerbaerLP/DiscordRichPresence/wiki/Set-up-custom-Icons-(for-Modpacks) for more info
 	#Default: 511106082366554122
-	client-id = "511106082366554122"
+	client-id = ""
 	#Disables config GUI
 	#Requires config file editing to enable again
 	Disable-Config-GUI = false
