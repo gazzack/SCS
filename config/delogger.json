@@ -1,0 +1,18 @@
+{
+  "printWarningMessage": false,
+  "printLoggersDisabled": false,
+  "commands": true,
+  "util": false,
+  "entityType": false,
+  "lootTableManger": false,
+  "simpleReloadableResourceManager": false,
+  "chunkSerializer": true,
+  "gameData": false,
+  "versionChecker": false,
+  "forgeConfigSpec": false,
+  "yggdrasilAuthenticationService": false,
+  "clientRecipeBook": false,
+  "modelBakery": false,
+  "atlasTexture": false,
+  "blockModel": false
+}
